@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 31-10-2019 a las 02:08:07
+-- Tiempo de generación: 31-10-2019 a las 02:30:46
 -- Versión del servidor: 10.4.6-MariaDB
 -- Versión de PHP: 7.3.9
 
@@ -45,7 +45,7 @@ INSERT INTO `eventos` (`id_evento`, `Nombre`, `Descripcion`, `id_imagenes`) VALU
 (3, 'Curso de tercializado y manager deportivo con clases de chipa por Solcito. ', 'Vení a descubrir como motivar, alcanzar y cumplir todos tus objetivos y a comer chipa.', 3),
 (4, 'Espectaculo benefico de cocina a cargo delchef informatico gonza.', 'veni a aprender de programacion y cocina a la vez gracias al lenguaje aplicado por el master chef senior', 4),
 (5, 'Vos te la perdes!', 'veni al mejor recital sorpresa del pais. no te podemos contar nada porque es sorpresa', 5),
-(6, 'Evangelio del visual basic!', 'Veni a la neoiglesia del ultimo siglo. la visual basic catolica apostolica new roman! ', 0);
+(6, 'Evangelio del visual basic!', 'Veni a la neoiglesia del ultimo siglo. la visual basic catolica apostolica new roman! ', 6);
 
 --
 -- Índices para tablas volcadas
